@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liuhanx.github.io</id>
+    <title>刘含笑回忆录</title>
+    <updated>2021-11-19T09:15:15.439Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liuhanx.github.io"/>
+    <link rel="self" href="https://liuhanx.github.io/atom.xml"/>
+    <subtitle>诚实，正直，尊重</subtitle>
+    <logo>https://liuhanx.github.io/images/avatar.png</logo>
+    <icon>https://liuhanx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 刘含笑回忆录</rights>
+    <entry>
+        <title type="html"><![CDATA[【第一周】【随便走走】漫步校园的一天]]></title>
+        <id>https://liuhanx.github.io/post/ce-shi/</id>
+        <link href="https://liuhanx.github.io/post/ce-shi/">
+        </link>
+        <updated>2021-11-16T16:02:29.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://liuhanx.github.io/post-images/1637308959566.jpg" alt="" loading="lazy"><br>
+待填坑</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘含笑的专栏介绍]]></title>
+        <id>https://liuhanx.github.io/post/about/</id>
+        <link href="https://liuhanx.github.io/post/about/">
+        </link>
+        <updated>2019-01-21T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>欢迎来到我的小天地，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>记录l刘含笑在美国加州大学伯克利分校访学期间的所见所闻， 所思所想。<br>
+每周更新|内容不会同步到朋友圈，QQ空间或其他社交媒体。<br>
+Go Bears!</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>乐于探索和分享的<br>
+刘含笑</p>
+<h2 id="博客栏目">⛹ 博客栏目</h2>
+<p>时间编号：1.第一周，第二周，第三周…………      2.日期</p>
+<p>【森林松鼠】见闻与随想<br>
+【地下清泉】研究记录<br>
+【软萌小熊】烹饪美食-居家生活-运动<br>
+【浓雾迷宫】烦恼和倾诉<br>
+【四处走走】旅行</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>liuhanxiao@berkeley.edu<br>
+liuhanxi18@mails.tsighua.edu.cn<br>
+liuhanx@outlook.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到刘含笑的小天地]]></title>
+        <id>https://liuhanx.github.io/post/hello-gridea/</id>
+        <link href="https://liuhanx.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-07T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这里将会分享刘含笑同学初次到达美国，一年中生活，学习和感想~<br>
+当你看到太阳的七彩光芒，以梦为马。</p>
+<p>向右滑动→→→→→→→→→→<br>
+写作原则1：中文英文分开写；</p>
+<pre><code>           写作原则2：每周至少更新一次；
+
+           写作原则3：图文并茂；
+
+            写作原则4：分享快乐，忧愁和励志的感觉
+</code></pre>
+<p>❤  希望支持我的人都不会孤单 ❤</p>
+]]></content>
+    </entry>
+</feed>
