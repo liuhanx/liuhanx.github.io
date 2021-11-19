@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuhanx.github.io</id>
     <title>刘含笑回忆录</title>
-    <updated>2021-11-19T09:19:33.639Z</updated>
+    <updated>2021-11-19T09:29:56.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuhanx.github.io"/>
     <link rel="self" href="https://liuhanx.github.io/atom.xml"/>
@@ -55,17 +55,13 @@ liuhanx@outlook.com</p>
         <id>https://liuhanx.github.io/post/hello-gridea/</id>
         <link href="https://liuhanx.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-07T16:00:00.000Z</updated>
+        <updated>2018-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>这里将会分享刘含笑同学初次到达美国，一年中生活，学习和感想~<br>
 当你看到太阳的七彩光芒，以梦为马。</p>
-<p>向右滑动→→→→→→→→→→<br>
-写作原则1：中文英文分开写；</p>
-<pre><code>           写作原则2：每周至少更新一次；
-
-           写作原则3：图文并茂；
-
-            写作原则4：分享快乐，忧愁和励志的感觉
-</code></pre>
+<p>写作原则1：中文英文分开写；</p>
+<p>写作原则2：每周至少更新一次；</p>
+<p>写作原则3：图文并茂；</p>
+<p>写作原则4：分享快乐，忧愁和励志的感觉</p>
 <p>❤  希望支持我的人都不会孤单 ❤</p>
 ]]></content>
     </entry>
